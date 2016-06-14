@@ -32,7 +32,7 @@
 		}
 	}
 
-	var Model = function () {
+	 var Model = function () {
 		var self = this;
 		self.message = ko.observable(""),
 			self.messages = ko.observableArray();
